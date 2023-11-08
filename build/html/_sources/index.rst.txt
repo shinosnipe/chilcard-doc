@@ -1,0 +1,22 @@
+.. chilcard documentation master file, created by
+   sphinx-quickstart on Wed Nov  8 20:42:14 2023.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+我的日记
+====================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: hjh:
+   :glob:
+
+   *
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
